@@ -2,3 +2,6 @@ build
 sdkconfig
 sdkconfig.old
 0_TODO_RbT1E32C.txt
+.DS_Store
+.vscode
+main/www/.idea/
